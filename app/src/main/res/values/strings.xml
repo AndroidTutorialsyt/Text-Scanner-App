@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Text Scanner App</string>
+    <string name="home">Home</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="image_preview">IMage Preview</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="ocr_text_scanner">OCR Text Scanner</string>
+</resources>
